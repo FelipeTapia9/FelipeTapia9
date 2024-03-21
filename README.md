@@ -1,5 +1,4 @@
-### Hola mi nombre es Felipe
-👋
+### Hola mi nombre es Felipe 👋
 
 <!--
 **FelipeTapia9/FelipeTapia9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
